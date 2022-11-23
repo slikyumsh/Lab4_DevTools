@@ -4,4 +4,4 @@ def lol():
 
 if __name__ == '__main__':
     print("lol")
-    lol()
+    print("kek")
